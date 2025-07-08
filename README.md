@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, next, nodejs, typescript.**
 
-- 📫 How to reach me **leo@leonardodaiub.dev**
+- 📫 How to reach me **leodaiub@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
